@@ -1,0 +1,11 @@
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\bin\Debug\net8.0\SmartCity.Domain.deps.json
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\bin\Debug\net8.0\SmartCity.Domain.dll
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\bin\Debug\net8.0\SmartCity.Domain.pdb
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.AssemblyInfoInputs.cache
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.AssemblyInfo.cs
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.dll
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\refint\SmartCity.Domain.dll
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.pdb
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\ref\SmartCity.Domain.dll
