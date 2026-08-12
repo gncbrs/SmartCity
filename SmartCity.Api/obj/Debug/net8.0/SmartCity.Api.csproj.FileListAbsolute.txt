@@ -115,3 +115,4 @@ C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Api\obj\Debug\net8.0\refint\Sm
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Api\obj\Debug\net8.0\SmartCity.Api.pdb
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Api\obj\Debug\net8.0\SmartCity.Api.genruntimeconfig.cache
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Api\obj\Debug\net8.0\ref\SmartCity.Api.dll
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Api\obj\Debug\net8.0\SmartCity.Api.sourcelink.json

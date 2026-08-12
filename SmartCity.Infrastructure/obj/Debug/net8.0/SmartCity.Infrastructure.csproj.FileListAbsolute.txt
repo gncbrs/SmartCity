@@ -15,3 +15,4 @@ C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Infrastructure\obj\Debug\net8.
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Infrastructure\obj\Debug\net8.0\SmartCity.Infrastructure.pdb
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Infrastructure\obj\Debug\net8.0\SmartCity.Infrastructure.genruntimeconfig.cache
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Infrastructure\obj\Debug\net8.0\ref\SmartCity.Infrastructure.dll
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Infrastructure\obj\Debug\net8.0\SmartCity.Infrastructure.sourcelink.json

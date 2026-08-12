@@ -9,3 +9,4 @@ C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartC
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\refint\SmartCity.Domain.dll
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.pdb
 C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\ref\SmartCity.Domain.dll
+C:\Users\gonenc.bezik\Desktop\SmartCity\SmartCity.Domain\obj\Debug\net8.0\SmartCity.Domain.sourcelink.json
